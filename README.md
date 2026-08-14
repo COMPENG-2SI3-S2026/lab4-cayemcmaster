@@ -1,5 +1,4 @@
 # Lab 4 - Binary Search Tree
 
-Student Name: [Your Name Here]
-
-MacID: [Your MacID Here]
+Student Name: Elizabeth Cay
+MacID: 400583418
